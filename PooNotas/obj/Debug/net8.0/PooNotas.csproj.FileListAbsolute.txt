@@ -1,0 +1,14 @@
+C:\POONotas\PooNotas\PooNotas\bin\Debug\net8.0\PooNotas.exe
+C:\POONotas\PooNotas\PooNotas\bin\Debug\net8.0\PooNotas.deps.json
+C:\POONotas\PooNotas\PooNotas\bin\Debug\net8.0\PooNotas.runtimeconfig.json
+C:\POONotas\PooNotas\PooNotas\bin\Debug\net8.0\PooNotas.dll
+C:\POONotas\PooNotas\PooNotas\bin\Debug\net8.0\PooNotas.pdb
+C:\POONotas\PooNotas\PooNotas\obj\Debug\net8.0\PooNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\POONotas\PooNotas\PooNotas\obj\Debug\net8.0\PooNotas.AssemblyInfoInputs.cache
+C:\POONotas\PooNotas\PooNotas\obj\Debug\net8.0\PooNotas.AssemblyInfo.cs
+C:\POONotas\PooNotas\PooNotas\obj\Debug\net8.0\PooNotas.csproj.CoreCompileInputs.cache
+C:\POONotas\PooNotas\PooNotas\obj\Debug\net8.0\PooNotas.dll
+C:\POONotas\PooNotas\PooNotas\obj\Debug\net8.0\refint\PooNotas.dll
+C:\POONotas\PooNotas\PooNotas\obj\Debug\net8.0\PooNotas.pdb
+C:\POONotas\PooNotas\PooNotas\obj\Debug\net8.0\PooNotas.genruntimeconfig.cache
+C:\POONotas\PooNotas\PooNotas\obj\Debug\net8.0\ref\PooNotas.dll
